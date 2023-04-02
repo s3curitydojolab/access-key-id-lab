@@ -6,5 +6,5 @@ AWS Credentials are of two types and it contains access key id & secret key. Bot
 
 # Permanent Access Key
 
-//  Test permanent key: AKIA4W5JLZ7SMJJQ3CP2 (no permissions attached)
+<!--  Test permanent key: AKIA4W5JLZ7SMJJQ3CP2 (no permissions attached) -->
 # Temporary Access Key
